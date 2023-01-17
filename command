@@ -2,7 +2,7 @@ First create a folder name as import and then paste the database file in that fo
 
 open the CMD in from import folder and run these 2 commands.
 
-//When you oen the CMD then run this command
+//When you open the CMD from import folder then run this command
 set path=%PATH%;C:\xampp\mysql\bin; (C:\xampp\mysql\bin; This is the xampp bin path)
 
 //Command line to import database
